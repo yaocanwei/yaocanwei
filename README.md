@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yaocanwei
-- 👀 I’m interested in climb and new technique
+- 👀 I’m interested in climb and new tech
 - 🌱 I’m currently learning cloud native
 - 💞️ I’m looking to collaborate on ....
 - 📫 How to reach me 1248014498@qq.com
